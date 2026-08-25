@@ -1,0 +1,7 @@
+streamlit>=1.35
+sentence-transformers>=2.7
+pypdf>=4.2
+python-docx>=1.1
+numpy>=1.26
+requests>=2.31
+openai>=1.30   # optional — only needed if EMBEDDING_BACKEND=openai
